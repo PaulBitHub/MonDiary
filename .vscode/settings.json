@@ -1,0 +1,6 @@
+{
+    "editor.formatOnType": false,
+    "diffEditor.codeLens": false,
+    "explorer.compactFolders": true,
+    "explorer.confirmUndo": "default"
+}
